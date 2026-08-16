@@ -131,7 +131,8 @@ The badges above rely on free third-party services that occasionally go down or 
 
 | Card | Quick fix | Permanent fix |
 |---|---|---|
-| GitHub Stats / Streak | Try the `nice-readme.vercel.app` URLs above again in a few minutes (they cache) | Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own free Vercel instance, swap the domain in the URLs |
+| GitHub Stats / Languages | Reload in a few minutes — `helio-github-stats.vercel.app` caches results | Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own free Vercel instance, swap the domain in the URLs |
+| Streak | Reload in a few minutes — `streak-stats.demolab.com` caches results | Deploy your own instance of [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats), swap the domain |
 | Trophies | Swap to another [community mirror](https://github.com/ryo-ma/github-profile-trophy#special-thanks) from the official repo's list | Same — fork & deploy your own Vercel instance |
 | Snake animation | Confirm the `snk` GitHub Action ran successfully under the repo's **Actions** tab | Re-run the workflow manually; check it created the `output` branch |
 
