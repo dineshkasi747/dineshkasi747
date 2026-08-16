@@ -1,9 +1,170 @@
-<h1 align="center">Hi 👋, I'm Kasi Dinesh</h1>
-<h3 align="center">A passionate web developer and AI/ML enthuiast</h3>
+<!-- CYBER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=dineshkasi747&fontSize=70&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%3E_%20Full_Stack_Dev%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=39FF14&stroke=00F5FF&strokeWidth=2" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Cyber Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing+Dinesh.exe...;%3E+Loading+Full+Stack+Modules...+%5BOK%5D;%3E+AI%2FML+Core+Activated...+%5BOK%5D;%3E+Open+Source+Mode+Enabled...+%5BOK%5D;%3E+Ready+to+Ship+Code.+%5BREADY%5D" alt="Cyber Typing" />
+
+<br/>
+
+<!-- Cyber Badges -->
+<img src="https://komarev.com/ghpvc/?username=dineshkasi747&style=for-the-badge&color=00F5FF&label=PROFILE+SCANS&labelColor=0A0E1A"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dineshkasi747?style=for-the-badge&color=39FF14&label=OPERATIVES&logo=github&labelColor=0A0E1A"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0A0E1A&logo=statuspage"/>
+
+</div>
+
+---
+
+<!-- About Me Cyber Terminal -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### `> SYSTEM_INFO.exe`
+
+```bash
+┌──[dineshkasi747@cyber]─[~]
+│
+├─ NAME      : Dinesh Kasi
+├─ CODENAME  : dineshkasi747
+├─ LOCATION  : India [IN] 🇮🇳
+├─ CLASS     : Full Stack Engineer / AI-ML Dev
+│
+├─ MISSION   :
+│   ├── 🌐 Full Stack Web & Mobile Apps
+│   ├── 🤖 AI & Machine Learning
+│   ├── ⚙️  REST API Architecture
+│   └── 📊 Data-Driven Systems
+│
+├─ CURRENT   : College Clubs & Events Platform
+├─ STATUS    : Actively Building
+│
+└─ UPTIME    : 24/7 ♾️
+```
+
+</td>
+<td valign="top" width="45%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="Cyber Hacker GIF"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> TECH_STACK --list`
+
+<div align="center">
+
+**[ LANGUAGES ]**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,dart,java,cpp&theme=dark&perline=7" />
+
+**[ FRAMEWORKS ]**
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,fastapi,tailwind,flask&theme=dark&perline=7" />
+
+**[ INFRASTRUCTURE ]**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,sqlite,firebase,vscode&theme=dark&perline=7" />
+
+</div>
+
+---
+
+### `> CONTRIBUTION_MATRIX --render`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshkasi747&bg_color=0A0E1A&color=00F5FF&line=39FF14&point=00F5FF&area_color=00F5FF&area=true&hide_border=true&custom_title=%5B+NEURAL+COMMIT+ACTIVITY+%5D&title_color=00F5FF" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+### `> GITHUB_STATS --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dineshkasi747&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2&rank_icon=github" height="185em"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkasi747&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&text_color=00F5FF" height="185em"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkasi747&theme=synthwave&hide_border=true&background=0A0E1A&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF" width="60%" alt="Streak Stats"/>
+
+</div>
+
+---
+
+### `> SNAKE.exe --eat-contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dineshkasi747/dineshkasi747/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dineshkasi747/dineshkasi747/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dineshkasi747/dineshkasi747/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+*(Requires the [snake action](https://github.com/Platane/snk) enabled on the `dineshkasi747/dineshkasi747` repo — otherwise this image will 404.)*
+
+</div>
+
+---
+
+### `> ACHIEVEMENT_SCAN --unlock`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dineshkasi747&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
+
+</div>
+
+---
+
+### `> ACTIVE_OPERATIONS --status`
+
+<div align="center">
+
+| `PROJECT` | `DESCRIPTION` | `STATUS` |
+|-----------|---------------|----------|
+| 🏫 **College Clubs & Events** | Laravel + Flutter platform for club admin, event registration & Razorpay payments | `[IN_PROGRESS]` |
+| 🌐 **Portfolio v2** | Personal dev portfolio | `[BUILDING]` |
+| 🤖 **AI/ML Experiments** | Applied AI & machine learning projects | `[IN_PROGRESS]` |
+| 💊 **MedDiagnosis AI** | AI medical assistant | `[COMPLETE ✓]` |
+
+</div>
+
+---
+
+### `> ESTABLISH_CONNECTION --protocols`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0E1A)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![X](https://img.shields.io/badge/X__FEED-000000?style=for-the-badge&logo=x&logoColor=00F5FF&labelColor=0A0E1A)](https://x.com/YOUR_TWITTER)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E1A)](https://instagram.com/YOUR_INSTAGRAM)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0E1A)](https://youtube.com/@YOUR_YOUTUBE)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A)](mailto:YOUR_EMAIL@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" width="70%"/>
+
+</div>
+
+<!-- Cyber Footer -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&reversal=true" width="100%"/>
