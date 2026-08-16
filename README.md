@@ -93,15 +93,17 @@
 
 <div align="center">
 
-<img src="https://nice-readme.vercel.app/stats?username=dineshkasi747&theme=dark&title_color=00F5FF&text_color=00F5FF&icon_color=39FF14&ring_color=BF5AF2&hide_border=true&include_all_commits=true" height="185em"/>
+<img src="https://helio-github-stats.vercel.app/api?username=dineshkasi747&custom_title=GitHub+Stats&theme=dark&title_color=00F5FF&text_color=00F5FF&icon_color=39FF14&ring_color=BF5AF2&hide_border=true&show_icons=true&include_all_commits=true" height="185em"/>
+&nbsp;
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=dineshkasi747&theme=dark&title_color=00F5FF&text_color=00F5FF&hide_border=true&layout=compact" height="185em"/>
 
 <br/><br/>
 
-<img src="https://nice-readme.vercel.app/streak-stats?user=dineshkasi747&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=dineshkasi747&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 
 </div>
 
-> ⚠️ **Note:** the cards above use [nice-readme.vercel.app](https://github.com/heliocarlitos/nice-readme), a community-built replacement for the original `github-readme-stats.vercel.app`, whose public instance is currently paused (`503 DEPLOYMENT_PAUSED`) by its maintainer — this is breaking that card on profiles everywhere, not just yours. If `nice-readme`'s colour parameters render slightly differently once live, adjust `theme`/`title_color`/`text_color` to taste. For a permanent fix that never depends on someone else's uptime, see **self-hosting** below.
+> ⚠️ **Note:** the cards above call `helio-github-stats.vercel.app` and `github-streak-stats-ruby.vercel.app` — the actual backing services behind the "Nice Readme" builder tool, used as a replacement for the original `github-readme-stats.vercel.app`, whose public instance is currently paused (`503 DEPLOYMENT_PAUSED`). I could not directly render-test these image endpoints myself, so **please check they load once pushed** — if either is still blank, it's the same class of free-tier-service flakiness described in Reliability Notes below, and self-hosting your own instance is the fix that won't depend on someone else's uptime.
 
 ---
 
