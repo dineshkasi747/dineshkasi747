@@ -93,15 +93,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dineshkasi747&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2&rank_icon=github" height="185em"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshkasi747&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&text_color=00F5FF" height="185em"/>
+<img src="https://nice-readme.vercel.app/stats?username=dineshkasi747&theme=dark&title_color=00F5FF&text_color=00F5FF&icon_color=39FF14&ring_color=BF5AF2&hide_border=true&include_all_commits=true" height="185em"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshkasi747&theme=synthwave&hide_border=true&background=0A0E1A&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF" width="60%" alt="Streak Stats"/>
+<img src="https://nice-readme.vercel.app/streak-stats?user=dineshkasi747&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 
 </div>
+
+> ⚠️ **Note:** the cards above use [nice-readme.vercel.app](https://github.com/heliocarlitos/nice-readme), a community-built replacement for the original `github-readme-stats.vercel.app`, whose public instance is currently paused (`503 DEPLOYMENT_PAUSED`) by its maintainer — this is breaking that card on profiles everywhere, not just yours. If `nice-readme`'s colour parameters render slightly differently once live, adjust `theme`/`title_color`/`text_color` to taste. For a permanent fix that never depends on someone else's uptime, see **self-hosting** below.
 
 ---
 
@@ -115,7 +115,23 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dineshkasi747/dineshkasi747/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-*(Requires the [snake action](https://github.com/Platane/snk) enabled on the `dineshkasi747/dineshkasi747` repo — otherwise this image will 404.)*
+*(Requires the [snake action](https://github.com/Platane/snk) enabled on the `dineshkasi747/dineshkasi747` repo — otherwise this image will 404. To enable it: 1) in that repo go to Actions → New workflow → search "snk" or add the snk-generated-github-contribution-grid workflow YAML from the linked repo; 2) run it once manually so the `output` branch is created; 3) it will then auto-refresh daily. Skip this section entirely if you'd rather not maintain the extra workflow.)*
+
+</div>
+
+---
+
+### `> RELIABILITY_NOTES.md`
+
+<div align="center">
+
+The badges above rely on free third-party services that occasionally go down or get rate-limited — this isn't unique to your profile. If a card breaks again in the future:
+
+| Card | Quick fix | Permanent fix |
+|---|---|---|
+| GitHub Stats / Streak | Try the `nice-readme.vercel.app` URLs above again in a few minutes (they cache) | Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own free Vercel instance, swap the domain in the URLs |
+| Trophies | Swap to another [community mirror](https://github.com/ryo-ma/github-profile-trophy#special-thanks) from the official repo's list | Same — fork & deploy your own Vercel instance |
+| Snake animation | Confirm the `snk` GitHub Action ran successfully under the repo's **Actions** tab | Re-run the workflow manually; check it created the `output` branch |
 
 </div>
 
@@ -125,7 +141,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dineshkasi747&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dineshkasi747&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 
 </div>
 
