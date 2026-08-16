@@ -99,11 +99,11 @@
 
 <br/><br/>
 
-<img src="https://github-streak-stats-ruby.vercel.app/?user=dineshkasi747&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=dineshkasi747&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 
 </div>
 
-> ⚠️ **Note:** the cards above call `helio-github-stats.vercel.app` and `github-streak-stats-ruby.vercel.app` — the actual backing services behind the "Nice Readme" builder tool, used as a replacement for the original `github-readme-stats.vercel.app`, whose public instance is currently paused (`503 DEPLOYMENT_PAUSED`). I could not directly render-test these image endpoints myself, so **please check they load once pushed** — if either is still blank, it's the same class of free-tier-service flakiness described in Reliability Notes below, and self-hosting your own instance is the fix that won't depend on someone else's uptime.
+> ⚠️ **Note:** the stats/languages cards above call `helio-github-stats.vercel.app` — a community-run replacement for `github-readme-stats.vercel.app`, whose public instance is currently paused (`503 DEPLOYMENT_PAUSED`). The streak card uses `streak-stats.demolab.com`, the current official domain for the [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) project (your original template pointed at `herokuapp.com`, which has been dead since Heroku killed free dynos). I can't render-test image endpoints directly, so **please confirm each one loads once pushed**.
 
 ---
 
